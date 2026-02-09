@@ -5,8 +5,8 @@
 // @description  Press / anywhere on Letterboxd to search
 // @author       Henry Darnell https://github.com/hjdarnel
 // @match        https://letterboxd.com/*
-// @downloadURL  https://gist.github.com/hjdarnel/e3c3e5c62b7aa27a5cbfddfcf34258cc/raw/letterboxd-sitewide-hotkeys.user.js
-// @updateURL    https://gist.github.com/hjdarnel/e3c3e5c62b7aa27a5cbfddfcf34258cc/raw/letterboxd-sitewide-hotkeys.user.js
+// @downloadURL https://raw.githubusercontent.com/hjdarnel/letterboxd-tweaks/main/letterboxd-sitewide-hotkeys.user.js
+// @updateURL   https://raw.githubusercontent.com/hjdarnel/letterboxd-tweaks/main/letterboxd-sitewide-hotkeys.user.js
 // @icon         https://letterboxd.com/favicon.ico
 // @grant        none
 // ==/UserScript==

@@ -5,8 +5,8 @@
 // @description  Press W to toggle watchlist status
 // @author       Henry Darnell https://github.com/hjdarnel
 // @include      /^https:\/\/letterboxd\.com\/film\/[^\/]+\/$/
-// @downloadURL  https://gist.github.com/hjdarnel/a4d5f24dc7917dc85a407a24386c99b1/raw/letterboxd-film-hotkeys.user.js
-// @updateURL    https://gist.github.com/hjdarnel/a4d5f24dc7917dc85a407a24386c99b1/raw/letterboxd-film-hotkeys.user.js
+// @downloadURL  https://raw.githubusercontent.com/hjdarnel/letterboxd-tweaks/main/letterboxd-film-hotkeys.user.js
+// @updateURL    https://raw.githubusercontent.com/hjdarnel/letterboxd-tweaks/main/letterboxd-film-hotkeys.user.js
 // @icon         https://letterboxd.com/favicon.ico
 // @grant        none
 // ==/UserScript==
