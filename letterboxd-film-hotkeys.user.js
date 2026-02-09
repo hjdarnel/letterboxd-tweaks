@@ -7,7 +7,7 @@
 // @include      /^https:\/\/letterboxd\.com\/film\/[^\/]+\/$/
 // @downloadURL  https://gist.github.com/hjdarnel/a4d5f24dc7917dc85a407a24386c99b1/raw/letterboxd-film-hotkeys.user.js
 // @updateURL    https://gist.github.com/hjdarnel/a4d5f24dc7917dc85a407a24386c99b1/raw/letterboxd-film-hotkeys.user.js
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://letterboxd.com/favicon.ico
 // @grant        none
 // ==/UserScript==
 

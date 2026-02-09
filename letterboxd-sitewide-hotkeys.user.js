@@ -7,7 +7,7 @@
 // @match        https://letterboxd.com/*
 // @downloadURL  https://gist.github.com/hjdarnel/e3c3e5c62b7aa27a5cbfddfcf34258cc/raw/letterboxd-sitewide-hotkeys.user.js
 // @updateURL    https://gist.github.com/hjdarnel/e3c3e5c62b7aa27a5cbfddfcf34258cc/raw/letterboxd-sitewide-hotkeys.user.js
-// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         https://letterboxd.com/favicon.ico
 // @grant        none
 // ==/UserScript==
 
