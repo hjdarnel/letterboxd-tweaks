@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Letterboxd Film Hotkeys
 // @namespace    hjdarnel
-// @version      1.0.0
+// @version      1.0.1
 // @description  Press W to toggle watchlist status
 // @author       Henry Darnell https://github.com/hjdarnel
 // @include      /^https:\/\/letterboxd\.com\/film\/[^\/]+\/$/
@@ -16,6 +16,10 @@
 const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
 
 document.addEventListener('keyup', async (event) => {
+  // Check URL again, due to SPA-like navigation when reviewing a film
+  if (!/^https:\/\/letterboxd\.com\/film\/[^\/]+\/$/.test(location.href))
+    return;
+
   switch (event.code) {
     case 'KeyW': {
       const removeEl = document.querySelector('a.remove-from-watchlist');
